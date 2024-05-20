@@ -10,7 +10,7 @@ import pages.AccountPage;
 import pages.HomePage;
 import pages.LoginPage;
 
-
+//just sample for local git repo to main Git repo
 
 public class LoginTestExtendsFromBase extends BaseClass{
 	WebDriver driver;
